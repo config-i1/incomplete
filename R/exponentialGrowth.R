@@ -1,4 +1,4 @@
-## The Exponent
+## The Exponential growth
 x <- seq(0,4.75,0.1)
 y <- c(2^x,30.9)
 
