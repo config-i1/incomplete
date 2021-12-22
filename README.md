@@ -1,2 +1,2 @@
-# incomplete
-The repository for fun, art and creativity
+# Incomplete
+This is an experimental repository for R related fun, art and other things
