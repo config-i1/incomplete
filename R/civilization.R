@@ -1,5 +1,5 @@
 ## Civilization
-par(mar=rep(0.1,4))
+par(mar=rep(0.1,4), bg="lightgrey")
 plot(0,0,col="white",xaxt="n",yaxt="n",bty="n",xlab="",ylab="",
      xlim=c(-10,10), ylim=c(-10,10))
 for(i in 0:720){
